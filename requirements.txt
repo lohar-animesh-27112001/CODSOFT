@@ -1,7 +1,5 @@
 absl-py==2.1.0
 accelerate==1.6.0
-# Editable install with no version control (acl-anthology==0.5.2)
--e /home/animesh-lohar-2711/Desktop/MTP-1/acl-anthology/python
 aext-assistant @ file:///croot/aext-assistant_1734642983417/work
 aext-assistant-server @ file:///croot/aext-assistant-server_1734639753335/work
 aext-core @ file:///croot/aext-core_1734637784667/work
